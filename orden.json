@@ -1,15 +1,14 @@
 {
-   "collector_id": 446560529,
-   "sponsor_id": 446566691,
+   "collector_id": 661447512,
    "items":[
       {
-         "title":" comida",
+         "title":" Comida",
          "currency_id": "MXN",
          "description":"compra con QR",
          "quantity": 1.0,
          "unit_price": 5.00
       }
    ],
-   "external_reference":"45ea80da",
-   "notification_url":"https://www.tusitio.com"
+   "external_reference":"FAC-DESA001",
+   "notification_url":"https://us-central1-c-sharp-f8019.cloudfunctions.net/app/notifications"
 }
